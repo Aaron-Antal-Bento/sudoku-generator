@@ -30,7 +30,7 @@ The finished puzzle cells are highlighted in grey, allowing the user to solve it
 
 🖥️ Usage
 
-Download the latest release: SudokuGen.zip.
+Download the latest release: [SudokuGen.zip](https://github.com/Aaron-Antal-Bento/snake-game/releases).
 
 Extract the files from the .zip and navigate into the `app.publish` folder.
 
