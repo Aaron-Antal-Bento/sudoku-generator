@@ -30,20 +30,10 @@ The finished puzzle cells are highlighted in grey, allowing the user to solve it
 
 🖥️ Usage
 
-Clone the repository:
+Download the latest release: SudokuGen.zip.
 
-git clone https://github.com/Aaron-Antal-Bento/sudoku-generator.git
+Extract the files from the .zip and navigate into the `app.publish` folder.
 
-
-Then either:
-
-Open the solution in Visual Studio, build, and run the project.
-
-Or navigate to:
-
-Sudoku Generator\bin\Debug\net8.0-windows7.0\Sudoku Generator.exe
-
-
-and run the executable directly.
+Ether run `Sudoku generator.exe` directly or install the app using `setup.exe` and following the instuctions. 
 
 📸 Screenshots
