@@ -19,7 +19,7 @@ Optimised Generation — Puzzle generation is displayed in real time and heavily
   <img src="./demo/Medium.png" alt="Medium Difficulty Demo" width="32%">
   <img src="./demo/Hard.png" alt="Hard Difficulty Demo" width="32%">
 </div>
-
+<br>
 	
 ⚙️ How It Works
 
