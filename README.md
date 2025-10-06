@@ -42,5 +42,3 @@ Download the latest release: [SudokuGen.zip](https://github.com/Aaron-Antal-Bent
 Extract the files from the .zip and navigate into the `app.publish` folder.
 
 Ether run `Sudoku generator.exe` directly or install the app using `setup.exe` and following the instuctions. 
-
-📸 Screenshots
