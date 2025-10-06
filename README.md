@@ -2,7 +2,7 @@
 
 A C# desktop application that generates Sudoku puzzles of varying difficulty and allows users to solve them with built-in algorithms, while comparing solving performance in real time.
 
-🎯 Features
+Features
 
 Custom Puzzle Generation — Generate Sudoku puzzles of varying difficulty levels (Easy, Medium, Hard).
 
@@ -11,7 +11,14 @@ Seed-Based Generation — Two seeds are used, one for the fill pattern and one f
 Optimised Generation — Puzzle generation is displayed in real time and heavily optimised for performance.
 
 🎥 Demo
-...
+<div align="center">
+  <h4>Generating</h4>
+  <img src="./demo/SudokuDemo.gif" alt="Sudoku Demo" width="700"><br>
+  <h4>Difficulties</h4>
+  <img src="./demo/Easy.png" alt="Snake Game Difficulties Demo" width="32%">
+  <img src="./demo/Medium.png" alt="Snake Game Difficulties Demo" width="32%">
+  <img src="./demo/Hard.png" alt="Snake Game Difficulties Demo" width="32%">
+</div>
 
 	
 ⚙️ How It Works
