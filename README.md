@@ -15,9 +15,9 @@ Optimised Generation — Puzzle generation is displayed in real time and heavily
   <h4>Generating</h4>
   <img src="./demo/SudokuDemo.gif" alt="Sudoku Demo" width="700"><br>
   <h4>Difficulties</h4>
-  <img src="./demo/Easy.png" alt="Snake Game Difficulties Demo" width="32%">
-  <img src="./demo/Medium.png" alt="Snake Game Difficulties Demo" width="32%">
-  <img src="./demo/Hard.png" alt="Snake Game Difficulties Demo" width="32%">
+  <img src="./demo/Easy.png" alt="Easy Difficulty Demo" width="32%">
+  <img src="./demo/Medium.png" alt="Medium Difficulty Demo" width="32%">
+  <img src="./demo/Hard.png" alt="Hard Difficulty Demo" width="32%">
 </div>
 
 	
