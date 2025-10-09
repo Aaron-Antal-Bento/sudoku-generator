@@ -1,16 +1,16 @@
-# 🧩 Sudoku Generator & Solver
+# 🧩 Sudoku Generator
 
-A C# desktop application that generates Sudoku puzzles of varying difficulty and allows users to solve them with built-in algorithms, while comparing solving performance in real time.
+A C# desktop application that generates Sudoku puzzles of varying difficulty from two seeds, allowing users to interact with the application and explore how manipulating the seeds affects puzzle generation.
 
-Features
+**Features**
 
-Custom Puzzle Generation — Generate Sudoku puzzles of varying difficulty levels (Easy, Medium, Hard).
+Custom Puzzle Generation - Generate Sudoku puzzles of varying difficulty levels (Easy, Medium, Hard).
 
-Seed-Based Generation — Two seeds are used, one for the fill pattern and one for number generation, allowing users to reproduce puzzles.
+Seed-Based Generation - Two seeds are used, one for the fill pattern and one for number generation, allowing users to reproduce puzzles.
 
-Optimised Generation — Puzzle generation is displayed in real time and heavily optimised for performance.
+Optimised Generation - Puzzle generation is displayed in real time and heavily optimised for performance.
 
-🎥 Demo
+**🎥 Demo**
 <div align="center">
   <h4>Generating</h4>
   <img src="./demo/SudokuDemo.gif" alt="Sudoku Demo" width="700"><br>
@@ -21,7 +21,7 @@ Optimised Generation — Puzzle generation is displayed in real time and heavily
 </div>
 <br>
 	
-⚙️ How It Works
+**⚙️ How It Works**
 
 The user selects the puzzle difficulty and clicks Generate.
 
