@@ -14,7 +14,7 @@ Optimised Generation - Puzzle generation is displayed in real time and heavily o
 <div align="center">
   <h4>Generating</h4>
   <img src="./demo/SudokuDemo.gif" alt="Sudoku Demo" width="700"><br>
-  <h4>Difficulties</h4>
+  <h4>Difficulties: Easy | Medium | Hard</h4>
   <img src="./demo/Easy.png" alt="Easy Difficulty Demo" width="32%">
   <img src="./demo/Medium.png" alt="Medium Difficulty Demo" width="32%">
   <img src="./demo/Hard.png" alt="Hard Difficulty Demo" width="32%">
@@ -35,7 +35,7 @@ The visualization shows solving progress in real time, highlighting algorithm de
 
 The finished puzzle cells are highlighted in grey, allowing the user to solve it manually or click Show Solution to view the completed puzzle.
 
-🖥️ Usage
+**🖥️ Usage**
 
 Download the latest release: [SudokuGen.zip](https://github.com/Aaron-Antal-Bento/snake-game/releases).
 
