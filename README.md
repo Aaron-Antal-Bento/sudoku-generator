@@ -1,4 +1,4 @@
-# 🧩 Sudoku Generator
+# Sudoku Generator
 
 A C# desktop application that generates Sudoku puzzles of varying difficulty from two seeds, allowing users to interact with the application and explore how manipulating the seeds affects puzzle generation.
 
@@ -10,7 +10,7 @@ Seed-Based Generation - Two seeds are used, one for the fill pattern and one for
 
 Optimised Generation - Puzzle generation is displayed in real time and heavily optimised for performance.
 
-**🎥 Demo**
+**Demo**
 <div align="center">
   <h4>Generating</h4>
   <img src="./demo/SudokuDemo.gif" alt="Sudoku Demo" width="700"><br>
@@ -21,7 +21,7 @@ Optimised Generation - Puzzle generation is displayed in real time and heavily o
 </div>
 <br>
 	
-**⚙️ How It Works**
+**How It Works**
 
 The user selects the puzzle difficulty and clicks Generate.
 
@@ -35,7 +35,7 @@ The visualization shows solving progress in real time, highlighting algorithm de
 
 The finished puzzle cells are highlighted in grey, allowing the user to solve it manually or click Show Solution to view the completed puzzle.
 
-**🖥️ Usage**
+**Usage**
 
 Download the latest release: [SudokuGen.zip](https://github.com/Aaron-Antal-Bento/snake-game/releases).
 
